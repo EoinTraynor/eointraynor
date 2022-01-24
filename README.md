@@ -7,7 +7,7 @@
   <a href="https://www.github.com/eointraynor">GitHub</a> •
   <a href="https://www.linkedin.com/in/eointraynor/">LinkedIn</a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=eointraynor" alt="EoinTraynor Profiel Views" /></p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=eointraynor.eointraynor" alt="EoinTraynor Profiel Views" /></p>
 
 ---
 
