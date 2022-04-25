@@ -14,10 +14,10 @@
 
 ##### BIO
 
-- 💼 Sr. Software Enigneer at [HubSpot](https://www.linkedin.com/company/hubspot)
-- 📍 Based in Berlin (Originally from Ireland 🇮🇪 )
-- 🌱 Currently learning GoLang
-- 🛠️ Working with React, TypeScript, AWS
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/eointraynor/)
+- 💼 I work at [HubSpot](https://www.linkedin.com/company/hubspot) as a Senior Software Engineer
+- 📍 I recently moved to Berlin
+- 🌱 I'm currently learning speak German
+- 🛠️ Working with React, TypeScript, NodeJS & AWS
+- 📫 Feel free to message me or connect [LinkedIn](https://www.linkedin.com/in/eointraynor/)
 - ⚡️ Fun fact: You can install me `npx eointraynor`
 
