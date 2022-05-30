@@ -16,7 +16,7 @@
 
 - 💼 I work at [HubSpot](https://www.linkedin.com/company/hubspot) as a Senior Software Engineer
 - 📍 I recently moved to Berlin
-- 🌱 I'm currently learning speak German
+- 🌱 I'm currently learning to speak German
 - 🛠️ Working with React, TypeScript, NodeJS & AWS
 - 📫 Feel free to message me or connect [LinkedIn](https://www.linkedin.com/in/eointraynor/)
 - ⚡️ Fun fact: You can install me `npx eointraynor`
