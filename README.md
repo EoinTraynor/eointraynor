@@ -8,5 +8,5 @@ Focused on growing teams and building great products that scale.
 - 💻 **Terminal:** `npx eointraynor`
 - 🇩🇪 **Learning:** Attempting German. Third time's the charm.
 - 🚧 **Side Projects:** Maintaining a steady pipeline of ambitious ideas that rarely make it past the domain purchase.
-- ♟️ **Chess:** Playing blitz on [Chess.com](https://link.chess.com/friend/JAPYmL) *(always down for a game)*.
+- ♟️ **Chess:** Playing blitz on [Chess.com](https://www.chess.com/member/rodliddle) *(always down for a game)*.
 - 🏃 **Sport:** Still actively searching for one I'm actually good at.
